@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: Executive Office of the Governor
 author_profile: false
 ---
